@@ -1,0 +1,13 @@
+setup.py
+src/my_backend_project/__init__.py
+src/my_backend_project/settings.py
+src/my_backend_project.egg-info/PKG-INFO
+src/my_backend_project.egg-info/SOURCES.txt
+src/my_backend_project.egg-info/dependency_links.txt
+src/my_backend_project.egg-info/top_level.txt
+src/my_backend_project/sub_pkg1/__init__.py
+src/my_backend_project/sub_pkg1/mod1.py
+src/my_backend_project/sub_pkg1/mod2.py
+src/my_backend_project/sub_pkg2/__init__.py
+src/my_backend_project/sub_pkg2/mod3.py
+src/my_backend_project/sub_pkg2/mod4.py
